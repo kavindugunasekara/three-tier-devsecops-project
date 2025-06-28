@@ -1,7 +1,7 @@
 # Three-Tier DevSecOps Full-Stack Web Application Deployment on AWS EKS using ArgoCD, Prometheus, Grafana, and Jenkins
 
 
-Learn how to deploy a complete three-tier DevSecOps project on AWS EKS! This step-by-step guide covers setting up Kubernetes clusters, implementing CI/CD with Jenkins, managing GitOps with ArgoCD, and monitoring with Prometheus and Grafana. Perfect for mastering secure and scalable application deployment.
+Learn how to deploy a Complete Three-Tier DevSecOps project on AWS EKS with cluster Monitoring! This step-by-step guide covers setting up Kubernetes clusters, implementing CI/CD with Jenkins, managing GitOps with ArgoCD, and monitoring with Prometheus and Grafana. Perfect for mastering secure and scalable application deployment.
 
 
 
